@@ -129,3 +129,10 @@ dmypy.json
 .pyre/
 
 review.json
+amherst.json
+LA.json
+SF.json
+chicago.json
+miami.json
+NY_restaurants.json
+boston_restaurants.json
